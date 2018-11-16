@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "TODO Application": {
+      "commandName": "Project",
+      "commandLineArgs": "-a \"todo that\""
+    },
+    "List Task": {
+      "commandName": "Project",
+      "commandLineArgs": "-l s s s s s s "
+    }
+  }
+}
